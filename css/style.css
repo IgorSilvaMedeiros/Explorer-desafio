@@ -14,7 +14,7 @@ nav {
   align-items: center;
   justify-content: space-between;
 }
-li {
+ul {
   display: flex;
   align-items: center;
   gap: 64px;
@@ -23,12 +23,12 @@ li {
   font-size: 14px;
   line-height: 28px;
 }
-li a {
+ul a {
   color: #ffffff;
   font-size: 14px;
   line-height: 28px;
 }
-li a:hover {
+ul a:hover {
   font-weight: bold;
   color: #ffffffdc;
 }
