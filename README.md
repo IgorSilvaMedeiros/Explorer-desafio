@@ -13,6 +13,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Rocket.sect é uma empresa de segurança da informação, ele foi elaborado na aula do programa Explorer da Rocketseat.
 
+- [Página](https://igorsilvamedeiros.github.io/Explorer-desafio/)
+
 ## 🔖 Layout
 
 No link abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
